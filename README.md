@@ -7,6 +7,10 @@ open to work 🎊🎉🎊
 -	Full stack web developer
 
 ### Skills in ⚔️:
+<p align="center">
+  <img src="https://www.mossawirahmed.com/blog/wp-content/uploads/2017/08/html6_logo.jpg" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 <!--
 **odedmasala/odedMasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
