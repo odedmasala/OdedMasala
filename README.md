@@ -2,11 +2,11 @@
 My personal Website : 
 
 open to work 🎊🎉🎊
-Looking for jobs in:
-•	Frontend web developer
-•	Full stack web developer
+- Looking for jobs in:
+- Frontend web developer
+-	Full stack web developer
 
-Skills in ⚔️:
+ - Skills in ⚔️:
 <!--
 **odedmasala/odedMasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
