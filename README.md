@@ -10,7 +10,7 @@ open to work 🎊🎉🎊
 ### Skills in ⚔️:
 <p align="center">
   <img src="https://www.mossawirahmed.com/blog/wp-content/uploads/2017/08/html6_logo.jpg" width="50" title="hover text">
-  <img src="[https://i.stack.imgur.com/PgcSR.png](https://2ality.com/2011/10/logo-js/js.jpg)" width="50" alt="accessibility text">
+  <img src="[[https://i.stack.imgur.com/PgcSR.png](https://2ality.com/2011/10/logo-js/js.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)" width="50" alt="accessibility text">
    <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
    <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
    <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
