@@ -4,6 +4,14 @@
 **odedmasala/odedMasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+My personal Website : 
+
+open to work 🎊🎉🎊
+Looking for jobs in:
+•	Frontend web developer
+•	Full stack web developer
+
+Skills in ⚔️:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
