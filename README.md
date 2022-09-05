@@ -9,15 +9,18 @@ open to work 🎊🎉🎊
 
 ### Skills in ⚔️:
 <p>
-  <img src="https://www.mossawirahmed.com/blog/wp-content/uploads/2017/08/html6_logo.jpg" width="50" title="hover text">
-  <img src="assant/kisspng-javascript-logo-html-comment-blog-5ae63c23139110.5436874015250381150802 (2).png" width="50" alt="accessibility text">
-   <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
-   <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
-   <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
-   <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
-   <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
-   <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
-   <img src="https://i.stack.imgur.com/PgcSR.png" width="50" alt="accessibility text">
+    <img src="assant/html-5.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/html-6.jpg (2).png" width="50" alt="accessibility text">
+    <img src="assant/css.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/js.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/typescript.png" width="50" alt="accessibility text">
+    <img src="assant/react-logo-1.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/nodejs-logo.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/next-js.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/Express-js.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/mongodb-logo.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/SQL.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/GIT-Github.png (2).png" width="50" alt="accessibility text">
 </p>
 <!--
 **odedmasala/odedMasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
