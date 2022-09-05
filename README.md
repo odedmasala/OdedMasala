@@ -1,8 +1,9 @@
 # Hi there 👋
+
 My personal Website : 
 
-open to work 🎊🎉🎊
-### Looking for jobs in
+
+### Looking for jobs in :
 - Frontend web developer
 -	Fullstack Developers
 -	Web Developers
@@ -22,6 +23,9 @@ open to work 🎊🎉🎊
     <img src="assant/SQL.png" width="100" alt="">
     <img src="assant/GIT-Github.png" width="100" alt="">
 </p>
+
+### thnks for gat here 
+
 <!--
 **odedmasala/odedMasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
