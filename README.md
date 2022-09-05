@@ -9,10 +9,10 @@ open to work 🎊🎉🎊
 
 ### Skills in ⚔️:
 <p>
-    <img src="assant/html-5.png (2).png" width="50" alt="accessibility text">
-    <img src="assant/html-6.jpg (2).png" width="50" alt="accessibility text">
-    <img src="assant/css.png (2).png" width="50" alt="accessibility text">
-    <img src="assant/js.png (2).png" width="50" alt="accessibility text">
+    <img src="assant/html-5.png" width="50" alt="accessibility text">
+    <img src="assant/html-6.png" width="50" alt="accessibility text">
+    <img src="assant/css.png" width="50" alt="accessibility text">
+    <img src="assant/js.png" width="50" alt="accessibility text">
     <img src="assant/typescript.png" width="50" alt="accessibility text">
     <img src="assant/react-logo-1.png (2).png" width="50" alt="accessibility text">
     <img src="assant/nodejs-logo.png (2).png" width="50" alt="accessibility text">
