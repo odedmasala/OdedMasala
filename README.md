@@ -13,6 +13,7 @@ My personal Website :
     <img src="assant/html-5.png" width="100" alt="">
     <img src="assant/html-6.jpg" width="100" alt="">
     <img src="assant/css.png" width="100" alt="">
+    <img src="assant/Sass_logo-700x524.png" width="100" alt="">
     <img src="assant/js.png" width="100" alt="">
     <img src="assant/typescript.png" width="100" alt="">
     <img src="assant/react-logo-1.png" width="100" alt="">
