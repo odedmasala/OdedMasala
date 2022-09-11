@@ -10,19 +10,19 @@ My personal Website :
 
 ### Skills in ⚔️:
 <p>
-    <img src="assant/html-5.png" width="100" alt="">
-    <img src="assant/html-6.jpg" width="100" alt="">
-    <img src="assant/css.png" width="100" alt="">
-    <img src="assant/Sass_logo-700x524.png" width="100" alt="">
-    <img src="assant/js.png" width="100" alt="">
-    <img src="assant/typescript.png" width="100" alt="">
-    <img src="assant/react-logo-1.png" width="100" alt="">
-    <img src="assant/nodejs-logo.png" width="100" alt="">
-    <img src="assant/Express-js.png" width="100" alt="">
-    <img src="assant/next-js.png" width="100" alt="">
-    <img src="assant/mongodb-logo.png" width="100" alt="">
-    <img src="assant/SQL.png" width="100" alt="">
-    <img src="assant/GIT-Github.png" width="100" alt="">
+    <img src="assant/html-5.png" width="50" alt="">
+    <img src="assant/html-6.jpg" width="50" alt="">
+    <img src="assant/css.png" width="50" alt="">
+    <img src="assant/Sass_logo-700x524.png" width="50" alt="">
+    <img src="assant/js.png" width="50" alt="">
+    <img src="assant/typescript.png" width="50" alt="">
+    <img src="assant/react-logo-1.png" width="50" alt="">
+    <img src="assant/nodejs-logo.png" width="50" alt="">
+    <img src="assant/Express-js.png" width="50" alt="">
+    <img src="assant/next-js.png" width="50" alt="">
+    <img src="assant/mongodb-logo.png" width="50" alt="">
+    <img src="assant/SQL.png" width="50" alt="">
+    <img src="assant/GIT-Github.png" width="50" alt="">
 </p>
 
 ### thnks for gat here 
