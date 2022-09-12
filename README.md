@@ -12,7 +12,7 @@ My personal Website :
 <p>
     <img src="assant/html-5.png" width="50" alt="">
     <img src="assant/html-6.jpg" width="50" alt="">
-    <img src="assant/css.png" width="40" alt="">
+    <img src="assant/css.png" width="35" alt="">
     <img src="assant/Sass_logo-700x524.png" width="50" alt="">
     <img src="assant/js.png" width="50" alt="">
     <img src="assant/typescript.png" width="50" alt="">
