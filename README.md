@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-A software Developer
-Currently student at Teach Career college 🎓
-I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- A software Developer 
+- Currently student at Teach Career college 🎓 
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - 📫 How to reach me **odedmasala08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
