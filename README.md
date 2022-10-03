@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odedmasala&label=Profile%20views&color=0e75b6&style=flat" alt="odedmasala" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-## I am  Oded Masala
+<h4>I'm oded</h4>
 -  A software Developer 
 -  Currently student at Teach Career college 🎓 
 -  I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
