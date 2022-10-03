@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oded masala</h1>
+<h3 align="center">Hi I'm a software Developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odedmasala&label=Profile%20views&color=0e75b6&style=flat" alt="odedmasala" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
 - I'm open for work, looking for my first home in the industry. **I have a great desire to develop and contribute my part to the team.**
+
+- 🌱 I’m currently learning **Python**
 
 - I’m currently working on **mern application app**
 
