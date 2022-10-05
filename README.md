@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oded</h1>
-<h3 align="center">A software developer looking for his first home in the industry. I have a great desire to develop and contribute my part to the team.</h3>
+<h3 align="center">A software developer,that looking for his first home in the industry. I have a great desire to develop and contribute my part to the team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odedmasala&label=Profile%20views&color=0e75b6&style=flat" alt="odedmasala" /> </p>
 
