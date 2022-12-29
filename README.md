@@ -29,5 +29,5 @@ Here are some of the projects I have worked on:
 
 ## Contact
 
-Feel free to contact me via email ( odedmasala2009@gmail.com ) or <a href="https://www.linkedin.com/in/oded-masala/">Linkdin</a>
+Feel free to contact me via  <a href="odedmasala2009@gmail.com">email</a> or <a href="https://www.linkedin.com/in/oded-masala/">Linkdin</a>
 . I am always open to discussing job opportunities and would be happy to talk more about my qualifications and experience.
