@@ -23,12 +23,10 @@ Here are some of the projects I have worked on:
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks and Libraries:** React, node.js, express.js, tailwindcss, cloudinary, formik and redux toolkit
+- **Frameworks and Libraries:** React, Node.js, Express.js, tailwindcss, cloudinary, formik, and redux toolkit
 - **Database Management:** MongoDB
 - **Other Skills:** Responsive web design, Git, version control
 
 ## Contact
 
-## Contact
-
-Feel free to contact me via email ( odedmasala2009@gmail.com) or LinkedIn (https://www.linkedin.com/in/oded-masala/). I am always open to discussing job opportunities and would be happy to talk more about my qualifications and experience.
+Feel free to contact me via email ( odedmasala2009@gmail.com ) or LinkedIn ( https://www.linkedin.com/in/oded-masala/ ). I am always open to discussing job opportunities and would be happy to talk more about my qualifications and experience.
