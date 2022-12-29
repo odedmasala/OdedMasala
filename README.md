@@ -1,20 +1,34 @@
-<h1 align="center">Hi there👋</h1>
-<h3 align="center">I'm a software developer that looking for his first home in the industry. I have a great desire to develop and contribute my part to the team.</h3>
+# Oded Masala - Junior Front-End and Full-Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=odedmasala&label=Profile%20views&color=0e75b6&style=flat" alt="odedmasala" /> </p>
+## Professional Summary
 
+I am a junior developer with a strong foundation in HTML, CSS, and JavaScript, as well as experience building web applications using the MERN stack (MongoDB, Express, React, Node.js) and responsive design frameworks such as Bootstrap and tailwindcss. I am always eager to learn new technologies and techniques, and I am excited to join a team where I can contribute my skills and ideas.
 
-- I’m currently working on **mern application app**
+## Projects
 
-- 🌱 I’m currently learning **Python**
+Here are some of the projects I have worked on:
 
-- 📫 How to reach me **odedmasala2009@gmail.com**
+### Masala Media - Social Network
+- **Project Description:** This was a personal project where I built a social networking platform using the MERN stack and following the MVC (Model-View-Controller) architecture. The goal of the project was to learn how to build a full-stack web application and gain experience with user authentication, database design, and CRUD functionality.
+- **Notable Features:** The application includes features such as user authentication, posts and comments, and a feed of posts from friends.
+- **Design:** I used a material ui for the design of this application.
+- **Repository:** [Link to repository]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### MarketPlace - B2C App
+- **Project Description:** This was a group project where we built a B2C (Business-to-Consumer) application using the MERN stack and authentication libraries such as formik and use state management with redux toolkit. The goal of the project was to learn how to implement authentication and authorization in a web application and work with a team to develop a complex application.
+- **Notable Features:** The application allows users to place orders and have them delivered as a single package, even if the items are from different merchants.
+- **Design:** I used tailwindcss for the design of this application.
+- **Repository:** [Link to repository]
 
-<a href="https://linkedin.com/in/oded-masala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oded-masala" height="30" width="40" /></a>
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks and Libraries:** React, node.js, express.js, tailwindcss, cloudinary, formik and redux toolkit
+- **Database Management:** MongoDB
+- **Other Skills:** Responsive web design, Git, version control
+
+## Contact
+
+## Contact
+
+Feel free to contact me via email ( [odedmasala2009@gmail.com] ) or LinkedIn ( [[Link to your LinkedIn profile](https://www.linkedin.com/in/oded-masala/)] ). I am always open to discussing job opportunities and would be happy to talk more about my qualifications and experience.
