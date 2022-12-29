@@ -12,7 +12,7 @@ Here are some of the projects I have worked on:
 - **Project Description:** This was a personal project where I built a social networking platform using the MERN stack and following the MVC (Model-View-Controller) architecture. The goal of the project was to learn how to build a full-stack web application and gain experience with user authentication, database design, and CRUD functionality.
 - **Notable Features:** The application includes features such as user authentication, posts and comments, and a feed of posts from friends.
 - **Design:** I used a material ui for the design of this application.
-- **Repository:**[ [Link to repository]]
+- **Repository:**[(https://github.com/odedmasala/masala-media-app)]
 
 ### MarketPlace - B2C App
 - **Project Description:** This was a group project where we built a B2C (Business-to-Consumer) application using the MERN stack and authentication libraries such as formik and use state management with redux toolkit. The goal of the project was to learn how to implement authentication and authorization in a web application and work with a team to develop a complex application.
