@@ -23,8 +23,8 @@ Here are some of the projects I have worked on:
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks and Libraries:** React, Node.js, Express.js, tailwindcss, cloudinary, formik, and redux toolkit
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python.
+- **Frameworks and Libraries:** React, Node.js, Express.js, Flask.
 - **Database Management:** MongoDB
 - **Other Skills:** Responsive web design, Git, version control
 
