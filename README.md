@@ -1,8 +1,8 @@
-# Oded Masala - Junior Front-End and Full-Stack Developer
+# Oded Masala - Full-Stack Developer
 
 ## Professional Summary
 
-I am a junior developer with a strong foundation in HTML, CSS, and JavaScript, as well as experience building web applications using the MERN stack (MongoDB, Express, React, Node.js) and responsive design frameworks such as Bootstrap and tailwindcss. I am always eager to learn new technologies and techniques, and I am excited to join a team where I can contribute my skills and ideas.
+I am a Full-Stack Developer with a strong foundation in HTML, CSS, and JavaScript, as well as experience building web applications using the MERN stack (MongoDB, Express, React, Node.js) and responsive design frameworks such as Bootstrap and tailwindcss. I am always eager to learn new technologies and techniques, and I am excited to join a team where I can contribute my skills and ideas.
 
 ## Projects
 
