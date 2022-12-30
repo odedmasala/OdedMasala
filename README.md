@@ -14,7 +14,7 @@ Here are some of the projects I have worked on:
 - **Design:** I used a material UI for the design of this application.
 - **Repository:** [Link to repository](https://github.com/odedmasala/masala-media-app)
 
-### MarketPlace - B2C App (continued)
+### MarketPlace - B2C App
 - **Goal:** The goal of this project was to learn how to implement authentication and authorization in a web application and work with a team to develop a complex application.
 - **Notable Features:** The application allows users to place orders and have them delivered as a single package, even if the items are from different merchants.
 - **Design:** I used tailwindcss for the design of this application.
