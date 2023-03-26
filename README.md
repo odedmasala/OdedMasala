@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Oded Masala - Full-Stack Developer
+# Oded Masala - Full Stack Developer
 
 ## Professional Summary
 
