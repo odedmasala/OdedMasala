@@ -4,7 +4,7 @@
 ## Professional Summary
 
 I am a retired combat officer and a passionate scuba diver who loves exploring the underwater world and experiencing new cultures in my spare time.
-Professionally, I am a highly skilled Full Stack developer qualification in web design and development. I have a strong foundation in HTML, CSS, and JavaScript, as well as experience building web applications with React.js, Angular, Node, Express.js.
+Professionally, I am a highly skilled Full Stack developer qualification in web design and development.
 
 ## Skills
 
