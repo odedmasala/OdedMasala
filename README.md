@@ -7,7 +7,7 @@ Professionally, I am a highly skilled Full Stack developer qualification in web 
 
 ## Skills
 
-- **Languages:** HTML, CSS, PHP, JavaScript, TypeScript, Python
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python
 - **Frameworks and Libraries:** Angular, .net core, React.js, Node.js, Express.js, Flask
 - **Database Management:** MongoDB
 - **Other Skills:** Responsive web design, Git, version control
