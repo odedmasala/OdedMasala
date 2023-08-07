@@ -10,7 +10,7 @@ Professionally, I am a highly skilled Full Stack developer qualification in web 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python.
 - **Frameworks and Libraries:** Angular, .net core, React.js, Node.js, Express.js, Flask.
 - **Databases:** MongoDB, PostgreSQL.
-- **Other Skills:** Responsive web design, Git, version control.
+- **Other Skills:** Responsive web design, Git, version control, AWS Services, Docker and Kubernetes.
 
 - Contact me via [email]( mailto:odedmasala2009@gmail.com ) or [LinkedIn]( https://www.linkedin.com/in/oded-masala/ ). 
 
