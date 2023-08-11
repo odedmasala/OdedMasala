@@ -16,7 +16,7 @@ Professionally, I am a highly skilled Full Stack developer qualification in web 
 
 Focused :rocket:
 
-- 🌱 Full-Stack Developer at Moveo Group.
+- 🌱 Full-Stack Developer at BioCatch.
 - 🔭 Evolving and learning new things every day.
 
 
