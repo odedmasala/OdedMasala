@@ -22,7 +22,7 @@ const techStack = {
 
 ## 🚀 Featured Projects
 
-**🔍 Bio-Scouter** – Real-time biometric analysis dashboard  
+**🔍 Scout** – Real-time biometric analysis dashboard  
 *React • Node.js • PostgreSQL*
 
 **💬 ChainChat** – AI-powered document assistant with semantic search  
