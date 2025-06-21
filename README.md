@@ -1,12 +1,12 @@
 # Oded Masala – Full Stack Engineer
 
-At BioCatch in Tel Aviv, I engineer web applications that detect and prevent fraud for banks around the globe.
+At BioCatch, I develop web applications that detect and prevent fraud for banks around the globe.
 
-A former company commander in the Armored Corps, I bring discipline, collaboration and a drive for excellence to every project.
+As a former company commander in the Armored Corps, I bring discipline, collaboration, and a drive for excellence to every project.
 
-Previously at Moveo Group, I partnered with product and design teams to ship user-centric interfaces using React, Angular, Node.js, MongoDB and AWS in an agile environment.
+Previously at Moveo Group, I partnered with product and design teams to ship user-centric interfaces using React, Angular, Node.js, MongoDB, and AWS in an agile environment.
 
-My toolkit spans TypeScript, JavaScript and Python—leveraging React, Node.js, FastAPI, PostgreSQL, Neo4j, Snowflake, Docker and AWS to deliver secure, scalable solutions.
+My toolkit spans TypeScript, JavaScript, and Python, leveraging React, Node.js, FastAPI, PostgreSQL, Neo4j, Snowflake, Docker, and AWS to deliver secure, scalable solutions.
 
 Key projects include:  
 - **Bio-Scouter**: real-time biometric analysis dashboard (React, Node.js, PostgreSQL)  
