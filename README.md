@@ -1,4 +1,4 @@
-# 👋 Oded Masala – Full Stack Engineer
+# Oded Masala – Full Stack Engineer
 
 **Building secure fraud detection systems at BioCatch** | **Former Armored Corps Commander** | **Underwater Explorer** 🤿
 
