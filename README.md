@@ -1,23 +1,19 @@
-# Oded Masala - Full Stack Developer
+# Oded Masala – Full Stack Engineer
 
-## Professional Summary
+At BioCatch in Tel Aviv, I engineer web applications that detect and prevent fraud for banks around the globe.
 
-I am a retired combat officer and a passionate scuba diver who loves exploring the underwater world and experiencing new cultures in my spare time.
-Professionally, I am a highly skilled Full Stack developer qualification in web design and development.
+A former company commander in the Armored Corps, I bring discipline, collaboration and a drive for excellence to every project.
 
-## Skills
+Previously at Moveo Group, I partnered with product and design teams to ship user-centric interfaces using React, Angular, Node.js, MongoDB and AWS in an agile environment.
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, Python.
-- **Frameworks and Libraries:** React.js, Node.js, Next.js, Express.js, Nest.js, Flask, Django.
-- **Databases:** MongoDB, PostgreSQL.
-- **Other Skills:** Responsive web design, Git, version control, AWS Services, Docker and Kubernetes.
+My toolkit spans TypeScript, JavaScript and Python—leveraging React, Node.js, FastAPI, PostgreSQL, Neo4j, Snowflake, Docker and AWS to deliver secure, scalable solutions.
 
-- Contact me via [email]( mailto:odedmasala2009@gmail.com ) or [LinkedIn]( https://www.linkedin.com/in/oded-masala/ ). 
+Key projects include:  
+- **Bio-Scouter**: real-time biometric analysis dashboard (React, Node.js, PostgreSQL)  
+- **ChainChat**: LangChain chatbot framework with FastAPI and Docker  
+- **Tilt-Setup**: automated Tilt + Docker local Kubernetes environment  
 
-Focused :rocket:
+📫 odedmasala2009@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/oded-masala/)  
 
-- 🌱 Full-Stack Developer at BioCatch.
-- 🔭 Evolving and learning new things every day.
-
-
-
+Engineering with integrity—from server logs to coral logs. 🚀
