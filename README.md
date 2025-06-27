@@ -12,10 +12,10 @@ Currently developing web applications that help banks around the globe detect an
 
 ```typescript
 const techStack = {
-  frontend: ["React", "Angular", "TypeScript", "JavaScript"],
-  backend: ["Node.js", "FastAPI", "Python"],
-  databases: ["PostgreSQL", "Neo4j", "Snowflake", "MongoDB"],
-  cloud: ["AWS", "Docker", "Kubernetes"],
+  frontend: ["React", "Next.js", "Storybook.js", "TypeScript"],
+  backend: ["Node.js", "Nest.js", "FastAPI", "Python"],
+  databases: ["PostgreSQL", "Neo4j", "Snowflake", "Mssql"],
+  cloudExperience: ["AWS", "Azure", "Kubernetes"],
   ai: ["LangChain", "OpenAI", "Hugging Face"]
 };
 ```
